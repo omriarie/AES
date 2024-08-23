@@ -1,5 +1,7 @@
 # AES Encryption and Decryption
 
+![AES Logo](AES.png)
+
 This project implements a simplified version of the AES (Advanced Encryption Standard) algorithm in Python. The implementation includes both encryption (`eaes`) and decryption (`daes`) functions that operate on 16-byte blocks of data, with a focus on demonstrating the core concepts of AES, such as key expansion, substitution using S-boxes, and matrix manipulation. Test files are included to validate the correctness of the implementation.
 
 ## Features
